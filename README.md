@@ -40,7 +40,7 @@
     - ✅ Fortinet FCF: Certified Fundamentals
     - ✅ Fortinet FCA: Certified Associate
   in_progress:
-    - 🚧 CCNA (Cisco Certified Network Associate)
+    - 🚧 CCNA
     - 🚧 CCNP ENCOR
     - 🚧 AZ-104: Azure Administrator Associate
     - 🚧 AZ-800/801: Administering Windows Server Hybrid Infrastructure
