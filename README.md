@@ -33,6 +33,25 @@
   message: >
     If you're interested in any of my labs or want to exchange ideas,
     feel free to reach out anytime!
+
+  certifications:
+  completed:
+    - ✅ AZ-900: Azure Fundamentals
+    - ✅ Fortinet FCF: Certified Fundamentals
+    - ✅ Fortinet FCA: Certified Associate
+  in_progress:
+    - 🚧 CCNA (Cisco Certified Network Associate)
+    - 🚧 CCNP ENCOR
+    - 🚧 AZ-104: Azure Administrator Associate
+    - 🚧 AZ-800/801: Administering Windows Server Hybrid Infrastructure
+    - 🚧 MS-102: Microsoft 365 Administrator
+  planned:
+    - 🧠 AZ-305: Azure Solutions Architect Design
+    - 🧠 AZ-700: Designing & Implementing Azure Network Solutions
+    - 🧠 AZ-400: DevOps Engineer
+    - 🧠 Terraform Associate (HashiCorp)
+    - 🧠 Kubernetes (CKA or equivalent)
+    - 🧠 SC-200: Security Operations Analyst
 ```
 <!--
 **rivalgames22/rivalgames22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
