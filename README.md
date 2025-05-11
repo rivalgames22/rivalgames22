@@ -1,5 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME!&fontSize=90)
 
+<a href="https://www.linkedin.com/in/tom%C3%A1%C5%A1-paul%C3%ADny-b86451206/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+
+# infrastructure-labs-portfolio
 <!--
 **rivalgames22/rivalgames22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
