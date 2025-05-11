@@ -14,7 +14,25 @@
 ```yaml
   name: Tomáš Paulíny
   age: 21
-  Job: IT support - outsourcing
+  location: Brno, Czech Republic
+  current_role: IT Support Technician (Outsourcing)
+  focus_areas:
+    - Networking (CCNA, CCNP)
+    - Windows Server & On-Prem Infrastructure
+    - Microsoft Azure (AZ-104, AZ-800/801)
+    - Microsoft 365 Administration (MS-102)
+    - Automation (PowerShell, Terraform)
+  learning_method: 
+    - Hands-on labs (home lab + real environment)
+    - Self-paced certification study
+  github_purpose: >
+    Personal portfolio of networking and infrastructure labs.
+    Documenting my learning journey, showcasing my skills,
+    and sharing examples of real configurations and scenarios.
+  open_to_connect: true
+  message: >
+    If you're interested in any of my labs or want to exchange ideas,
+    feel free to reach out anytime!
 ```
 <!--
 **rivalgames22/rivalgames22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
